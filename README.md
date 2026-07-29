@@ -46,7 +46,7 @@ A former judoka, I bring the same principles to transformation: **leverage over 
 
 ## 📊 GitHub Stats
 
-![Yoav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoavLax&show_icons=true&theme=tokyonight&hide_border=true)
+![Yoav's GitHub stats](https://github-readme-stats-two-sooty.vercel.app/api?username=YoavLax&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🌐 Connect With Me
 
