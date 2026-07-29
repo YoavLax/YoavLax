@@ -1,3 +1,13 @@
+<!-- HEADER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e40af,100:06b6d4&height=300§ion=header&text=Yoav%20Lax&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20the%20Future%20of%20AI-Powered%20Engineering&descAlignY=60&descSize=24"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=3000&color=00C6FF¢er=true&vCenter=true&width=700&lines=Building+the+Future+of+AI-Powered+Engineering+🚀;AI+Transformation+at+Scale+🤖;Developer+Experience+%26+Automation+⚡;Mr.+Migration+🔄;Speaker+%26+Community+Leader+🎤"/>
+</p>
+
+---
+
 # 👋 Hey, I'm Yoav Lax
 
 ### 🧠 AI Solutions Architect @ Varonis | AI Transformation Leader | Mr. Migration | Speaker
